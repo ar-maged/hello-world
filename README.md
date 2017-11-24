@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/emoji-one/104/waving-hand-sign_1f44b.png" width="80"/>
-  <img src="https://cdn.shopify.com/s/files/1/1061/1924/products/Emoji_Earth_Globe_Asia_large.png?v=1480481025" width="80"/>
+  <img src="https://user-images.githubusercontent.com/11808903/33225143-db5a1d4a-d17a-11e7-9f21-3f8ac4d6d196.png" />
 </p>
 
 <h1 align="center">Hello World</h1>
