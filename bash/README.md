@@ -1,5 +1,5 @@
 ## Bash
 
 ```
-chmod +x hello.sh && ./hello.sh
+$ chmod +x hello.sh && ./hello.sh
 ```

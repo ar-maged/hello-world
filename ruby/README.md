@@ -1,5 +1,5 @@
 ## Ruby
 
 ```
-ruby hello.rb
+$ ruby hello.rb
 ```

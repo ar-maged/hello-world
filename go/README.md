@@ -1,5 +1,5 @@
 ## Go
 
 ```
-go run hello.go
+$ go run hello.go
 ```

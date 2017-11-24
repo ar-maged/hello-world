@@ -1,5 +1,5 @@
 ## C++
 
 ```
-g++ hello.cpp -o hello.out && ./hello.out
+$ g++ hello.cpp -o hello.out && ./hello.out
 ```

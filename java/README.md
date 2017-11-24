@@ -1,5 +1,5 @@
 ## Node
 
 ```
-javac Hello.java && java Hello
+$ javac Hello.java && java Hello
 ```

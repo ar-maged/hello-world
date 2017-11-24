@@ -1,5 +1,5 @@
 ## Node
 
 ```
-node hello.js
+$ node hello.js
 ```
