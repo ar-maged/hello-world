@@ -1,5 +1,5 @@
 ## Haskell
 
 ```
-
+$ runhaskell hello.hs
 ```
